@@ -111,6 +111,7 @@ public class UserServiceImpl implements UserService {
         }
     }
 
+    // adding some comments for git
     private float getUsersItemValue(final User user) {
         float currentItemValueForUser = 0.0F;
         List<Hardware> usersHardware;
